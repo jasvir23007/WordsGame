@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Falling Words</string>
+    <string name="intro_title">Learn &amp; Play</string>
+    <string name="tutorial">Select if the translation is correct or wrong before it hits the bottom.\n\n- If your answer is right you will get 10 points.\n\n- If not, you lose a life (you have 3 lives only).</string>
+    <string name="start_game">Start Game</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="score">Score:</string>
+    <string name="lives">Lives:</string>
+    <string name="you_score">You Score:</string>
+    <string name="play_again">Play Again</string>
+</resources>
